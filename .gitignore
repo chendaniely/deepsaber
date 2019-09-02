@@ -1,0 +1,5 @@
+.vscode
+data/processed/*
+songs/*
+
+__pycache__

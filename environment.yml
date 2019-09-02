@@ -1,0 +1,14 @@
+name: deepsaber
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7
+  - ipython
+  - jupyter
+  - numpy
+  - pandas
+  - requests
+  - pip
+  - pip:
+    - pyprojroot
+    - soundfile
